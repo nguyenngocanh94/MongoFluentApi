@@ -1,0 +1,17 @@
+{
+  "name": "thicongtu2/mongo_fluent_api",
+  "description": "fluent api for mongo query",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "thicongtu",
+      "email": "thicongtu2@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "FluentApi\\": "src" }
+  },
+  "require": {
+  }
+}
